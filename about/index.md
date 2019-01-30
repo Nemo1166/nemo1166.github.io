@@ -4,7 +4,7 @@ type: page
 title: About me
 ---
 
-一个普通的学数学的人。
+
 
 <!--more-->
 
