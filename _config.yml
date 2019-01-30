@@ -29,7 +29,7 @@ paginate: 20
 
 #### Site
 title : Lanshow's blog
-tagline: MLGB: Make Life Get Better
+tagline: "MLGB: Make Life Get Better"
 assets: /assets
 url:
 baseurl:
