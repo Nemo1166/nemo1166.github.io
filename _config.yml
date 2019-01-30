@@ -28,8 +28,8 @@ defaults:
 paginate: 20
 
 #### Site
-title : "MLGB - Lanshow's blog"
-tagline: Make Life Get Better
+title : Lanshow's blog
+tagline: MLGB: Make Life Get Better
 assets: /assets
 url:
 baseurl:
