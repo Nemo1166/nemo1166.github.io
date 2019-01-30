@@ -29,7 +29,7 @@ paginate: 20
 
 #### Site
 title : Lanshow's blog
-tagline: "MLGB: Make Life Get Better"
+tagline: "MLGB - Make Life Get Better"
 assets: /assets
 url:
 baseurl:
@@ -110,9 +110,13 @@ links:
   
 
 #### Comment
-disqus_shortname:     ## e.g. wuchong      your disqus short name.        website: http://disqus.com
-hypercomments_id:     ## e.g. 91510        your hypercomments widget id.  website: http://hypercomments.com
-yungentie_productkey: ## your netease yungentie product key.              website: https://gentie.163.com
+gittalk:
+  enable: false
+  clientID: 78f13463a6f5ed38da7a
+  clientSecret: 07f916796f0d665aca2a8eac0a2ab1351ed875dd
+  repo: nemo1166.github.io
+  owner: Nemo1166
+  admin: Nemo1166
 ## set only one of them
 
 #### Share button
