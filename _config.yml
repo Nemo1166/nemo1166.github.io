@@ -111,7 +111,7 @@ links:
 
 #### Comment
 gittalk:
-  enable: false
+  enable: true
   clientID: 78f13463a6f5ed38da7a
   clientSecret: 07f916796f0d665aca2a8eac0a2ab1351ed875dd
   repo: nemo1166.github.io
