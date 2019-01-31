@@ -1,6 +1,6 @@
 {% if site.categories | size != 0 %}
 <div class="categorieslist">
-	<p class="asidetitle">{{ lang.categories }}</p>
+	<p class="asidetitle"><a href="{{ site.baseurl }}/categories/">{{ lang.categories }}</a></p>
 		<ul>
 		{% for item in site.categories %}
 		  {% if item[1] | size != 0 %}

@@ -1,6 +1,6 @@
 {% if site.tags | size != 0 %}
 <div class="tagslist">
-	<p class="asidetitle">{{ lang.tags }}</p>
+	<p class="asidetitle"><a href="{{ site.baseurl }}/tags/">{{ lang.tags }}</a></p>
 		<ul class="clearfix">
 		{% for item in site.tags %}
 			{% if item[1] | size != 0 %}
