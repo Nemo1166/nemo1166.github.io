@@ -14,7 +14,7 @@ permalink: pretty
 markdown: kramdown
 kramdown:
     input: GFM
-    html_to_native: true
+#    html_to_native: true
 
 #### Default Attributes
 defaults:
