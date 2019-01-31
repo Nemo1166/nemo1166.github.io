@@ -34,6 +34,7 @@ tagline: "MLGB - Make Life Get Better"
 assets: /assets
 url:
 baseurl: "https://nemo1166.github.io"
+imgurl: "https://nemo1166.github.io/assets/img/post/"
 
 #### Language
 language: zh-CN    ## blog site languages: en, zh-CN, zh-TW, de
