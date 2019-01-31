@@ -33,7 +33,7 @@ title : Lanshow's blog
 tagline: "MLGB - Make Life Get Better"
 assets: /assets
 url:
-baseurl:
+baseurl: "https://nemo1166.github.io"
 
 #### Language
 language: zh-CN    ## blog site languages: en, zh-CN, zh-TW, de
