@@ -37,6 +37,7 @@ baseurl: "https://nemo1166.github.io"
 imgurl: "https://nemo1166.github.io/assets/img/post/"
 
 encoding: UTF-8
+excerpt_separator:  '<!-- more -->' ##摘要符
 
 #### Language
 language: zh-CN    ## blog site languages: en, zh-CN, zh-TW, de
