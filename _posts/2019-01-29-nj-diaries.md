@@ -13,11 +13,11 @@ tags: [facepp, diary]
 
 今天是2019年1月18日，新中国已成立25312天。还没下火车就收到了南京人民的亲切问候。
 
-<img src="{{site.imgurl}}liushuizhang/Screenshot_20190118-115043.jpg" style="width:40%;display:block;margin:0 auto" />
+<img src="{{site.imgurl}}liushuizhang/Screenshot_20190118-115043.jpg" style="width:20%;display:block;margin:0 auto" />
 
 这是我第二次来到南京，和宋学长约在新街口见面。不得不说，新街口地铁站的路真难找🙃，指示牌又不放在一起，差点迷路\_(:з」∠)\_。不过好在没过多久就和学长会合，并且吃了午饭（见下图），这里容我说一嘴：
 
-<img src="{{site.imgurl}}liushuizhang/lunch.jpg" style="width:40%;display:block;margin:0 auto" />
+<img src="{{site.imgurl}}liushuizhang/lunch.jpg" style="width:30%;display:block;margin:0 auto" />
 
 <center>真香！</center>
 
@@ -25,15 +25,15 @@ tags: [facepp, diary]
 
 吃完饭，沿着中山南路往北走，既然来了怎能不打个卡（滑稽）。
 
-<img src="{{site.imgurl}}liushuizhang/IMG_20190118_132525.jpg" style="width:60%;display:block;margin:0 auto" />
+<img src="{{site.imgurl}}liushuizhang/IMG_20190118_132525.jpg" style="width:40%;display:block;margin:0 auto" />
 
 学长去SEU，于是就一直同行到地铁站。到站下车来到集合点签到领材料，完工临走的时候被老师叫住拍个照，说是后面要组成数据集。一向不擅长表情管理的我在现场emmmmmm……感觉老师应该不止拍了一张吧🙃总有一张能用的吧……\_(:з」∠)\_
 
-<img src="{{site.imgurl}}liushuizhang/74d59e35e2580c67.jpg" style="width:60%;display:block;margin:0 auto" />
+<img src="{{site.imgurl}}liushuizhang/74d59e35e2580c67.jpg" style="width:40%;display:block;margin:0 auto" />
 
 至于宿舍呢，就长这样，听说是给留学生住的，嗯等级比我的202-1确实不知高到哪里去。
 
-<img src="{{site.imgurl}}liushuizhang/20190119_004123_2518_1.gif" style="width:60%;display:block;margin:0 auto" />
+<img src="{{site.imgurl}}liushuizhang/20190119_004123_2518_1.gif" style="width:40%;display:block;margin:0 auto" />
 
 整理好个人物品之后是和同学一起跟着老师校园半日游，港真，我一直以为一所大学不说象牙塔，总归是和外界有一道墙隔开，在这边，居住区和学生公寓在一起，校门口内外住宅基本上看不出差别，甚至连进校门都有一种进小区门的感觉（雾）。
 
@@ -60,11 +60,11 @@ Deadline是第一生产力。
 <p align="right">——佚名</p>
 </blockquote>
 
-<img src="{{site.imgurl}}liushuizhang/7f7074741146e8882a37abec2bb491f33c1f19c9.png" style="width:40%;display:block;margin:0 auto" />
+<img src="{{site.imgurl}}liushuizhang/7f7074741146e8882a37abec2bb491f33c1f19c9.png" style="width:20%;display:block;margin:0 auto" />
 
 今天给我最大的感触就是：如果被逼到一定程度，那么没有什么是学不会的。上大学之前我就立下了要学C/C++/python,etc的flag🚩。然鹅……后来没有一样是主动学下去的\_(:з」∠)\_大一下学期开了C语言的课，那个时候才算是真正入了门（结果到最后链表的逻辑还是没吃透……）。上个学期数值分析课老师要求作业必须用C++完成。虽然说C的方法也能应付掉作业，但是想想毕竟曾经插过的旗子还立着，总得make a bit of difference，于是就试着用STL，用class实现函数插值和数值积分。至于Python呢……大一写下了hello world，直到昨天才开始看三大结构和数据类型\_(´ཀ\`」 ∠)\_\_
 
-<img src="{{site.imgurl}}liushuizhang/webwxgetmsgimg.png" style="width:30%;display:block;margin:0 auto" />
+<img src="{{site.imgurl}}liushuizhang/webwxgetmsgimg.png" style="width:16%;display:block;margin:0 auto" />
 
 今天白天，为了照顾我等弱小的人类，老师从hello world开始讲起，一点点，基本上三大结构数据类型函数定义等等都讲完了，感觉慢慢地有点上路。这里我要打个广告（没收钱）：感谢菜鸟就我狗命！（这广告打的好硬emmm）
 
@@ -79,7 +79,7 @@ Deadline是第一生产力。
 
 看别人码程序再多那也是别人的，要想内化必须得亲自动手。总之一晚上我一直都在写，直到老师进来讲解我才发现已经快到了放学的时间。扫扫题目列表，本以为晚上要回去加班，没想到已经做到了最后两个题，而我也只是今天才算真正地入门这门语言。个中滋味感触颇深。
 
-<img src="{{site.imgurl}}liushuizhang/22019-01-19-23-55-35-的屏幕截图.png" style="width:80%;display:block;margin:0 auto" />
+<img src="{{site.imgurl}}liushuizhang/2019-01-19-23-55-35-的屏幕截图.png" style="width:80%;display:block;margin:0 auto" />
 
 今天只是入个门，明天就要拿它调API啦，但愿明天讲的我能学会吧emmm\_(:з」∠)\_
 
@@ -93,7 +93,7 @@ Deadline是第一生产力。
 	<p align="right">——我也不知道是谁说的</p>
 </blockquote>
 
-<img src="{{site.imgurl}}liushuizhang/fqsk.jpg" style="width:30%;display:block;margin:0 auto" />
+<img src="{{site.imgurl}}liushuizhang/fqsk.jpg" style="width:20%;display:block;margin:0 auto" />
 
 在舒适区呆久了，总要出来转一转，不然都不知道还有这么多是从来没有涉足过的。之前写过的不管是C还是其他都是在本地处理，还从来没有过和网络上的另一端交换数据。今天讲了很多旷视平台的API和各种参数，这让一向用Excel处理简单数据的我很难适应。晚上的内容是预习第二天早上的深度学习基础，个人感觉这是一个十分抽象又难以理解的一种东西。虽然抽象代数也同样难以理解，但是它有完整的体系和严密的逻辑推导，而深度学习好像就是看概率，也可能是我水平不行吧，还没理解它的内涵\_(:з」∠)\_
 
@@ -103,7 +103,7 @@ Deadline是第一生产力。
 
 ## Day3
 
-<img src="{{site.imgurl}}liushuizhang/IMG_20190106_002023.jpg" style="width:40%;display:block;margin:0 auto" />
+<img src="{{site.imgurl}}liushuizhang/IMG_20190106_002023.jpg" style="width:16%;display:block;margin:0 auto" />
 
 <center>鲁迅：如果你不知道一句话是谁说的，那就是我说的</center>
 
@@ -126,7 +126,7 @@ Deadline是第一生产力。
 
 <blockquote> 世界是你们的，也是我们的，但归根结底是你们的。<p align="right">——毛泽东</p ></blockquote>
 
-<img src="{{site.imgurl}}liushuizhang/muse-1024x768.jpg" style="width:80%;display:block;margin:0 auto" />
+<img src="{{site.imgurl}}liushuizhang/muse-1024x768.jpg" style="width:70%;display:block;margin:0 auto" />
 
 今天，我们参观了学校的兵器博物馆和校史馆，亲眼目睹我国军工如何从靠援助，靠仿制，再到一步步独立自主。这个世界从未和平，我们只是有幸生在一个和平的国家。早上刷动态，看到了于敏先生追悼会的消息。戊戌注定是命途多舛的一年，随着越来越多的老前辈慢慢离开我们，我们必须认识到，我们不能再自称社会主义接班人。我们，就是社会主义的建设者，革命尚未成功，同志仍需努力。
 
