@@ -68,7 +68,7 @@ Deadline是第一生产力。
 
 今天白天，为了照顾我等弱小的人类，老师从hello world开始讲起，一点点，基本上三大结构数据类型函数定义等等都讲完了，感觉慢慢地有点上路。这里我要打个广告（没收钱）：感谢菜鸟就我狗命！（这广告打的好硬emmm）
 
-<img src="{{site.imgurl}}liushuizhang/2019-01-19-23-38-49-的屏幕截图-300x88.png" style="width:30%;display:block;margin:0 auto" />
+<img src="{{site.imgurl}}liushuizhang/2019-01-19-23-38-49-的屏幕截图.png" style="width:30%;display:block;margin:0 auto" />
 
 <center>"再牛逼的梦想也抵不住傻逼似的坚持"</center>
 
@@ -79,7 +79,7 @@ Deadline是第一生产力。
 
 看别人码程序再多那也是别人的，要想内化必须得亲自动手。总之一晚上我一直都在写，直到老师进来讲解我才发现已经快到了放学的时间。扫扫题目列表，本以为晚上要回去加班，没想到已经做到了最后两个题，而我也只是今天才算真正地入门这门语言。个中滋味感触颇深。
 
-<img src="{{site.imgurl}}liushuizhang/22019-01-19-23-55-35-的屏幕截图-1024x912.png" style="width:80%;display:block;margin:0 auto" />
+<img src="{{site.imgurl}}liushuizhang/22019-01-19-23-55-35-的屏幕截图.png" style="width:80%;display:block;margin:0 auto" />
 
 今天只是入个门，明天就要拿它调API啦，但愿明天讲的我能学会吧emmm\_(:з」∠)\_
 
