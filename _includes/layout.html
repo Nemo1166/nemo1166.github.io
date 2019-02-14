@@ -1,6 +1,8 @@
 {% if page.layout == 'post' or page.layout == 'photo' %}
  {% include _partial/head.html %}
   <body>
+    <script type="text/javascript" src="{{ site.baseurl }}/assets/js/canvas-nest.js"></script>
+    <canvas id="c_n1"></canvas>
     <header>
         {% include _partial/header.html %}
     </header>
@@ -30,6 +32,8 @@
 {% elsif page.layout == 'search' %}
 {% include _partial/head.html %}
     <body>
+      <script type="text/javascript" src="{{ site.baseurl }}/assets/js/canvas-nest.js"></script>
+      <canvas id="c_n1"></canvas>
       <header>
         {% include _partial/header.html %}
       </header>
