@@ -1,4 +1,35 @@
 // place your custom styles here
 .title {
-    font-weight: bold;
+  font-weight: bold;
+}
+
+.blogger-avatar {
+  border-radius: 50%;
+  animation-duration: 5s;
+  animation-name: breath;
+  animation-iteration-count: infinite;
+}
+
+@keyframes breath {
+  5% {
+    box-shadow: 0 0 0px plum;
+  }
+  50% {
+    box-shadow: 0 0 16px plum;
+  }
+  95% {
+    box-shadow: 0 0 0px plum;
+  }
+}
+.logo {
+  border-radius: 15%;
+}
+
+.footer {
+  display: flex;
+  align-items: center;
+}
+
+.right {
+  text-align: right;
 }

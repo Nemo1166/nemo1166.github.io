@@ -1,5 +1,6 @@
 ---
 icon: profile
+article: false
 order: -1
 ---
 

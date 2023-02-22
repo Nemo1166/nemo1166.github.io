@@ -6,7 +6,7 @@ export const zhNavbar = navbar([
   {
     text: "笔记",
     icon: "note",
-    prefix: "/zh/",
+    prefix: "/zh/notes/",
     children: [
       "frontend",
       "server-manage"

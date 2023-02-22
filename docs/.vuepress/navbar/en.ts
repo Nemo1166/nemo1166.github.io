@@ -7,10 +7,10 @@ export const enNavbar = navbar([
   {
     text: "Notes",
     icon: "note",
-    prefix: "/",
+    prefix: "/notes/",
     children: [
-      // "frontend",
-      // "server-manage"
+      "frontend",
+      "server-manage"
     ],
   },
   // {

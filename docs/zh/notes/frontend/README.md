@@ -5,4 +5,4 @@ article: false
 
 # 前端笔记
 
-<AutoCatalog base='/zh/frontend/' />
+<AutoCatalog base='/zh/notes/frontend/' />

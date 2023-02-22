@@ -12,7 +12,7 @@ export default hopeTheme({
 
   iconAssets: "iconfont",
 
-  logo: "/author.png",
+  logo: "/author.jpg",
 
   // repo: "vuepress-theme-hope/vuepress-theme-hope",
 
@@ -69,7 +69,9 @@ export default hopeTheme({
       // sidebar
       sidebar: enSidebar,
 
-      footer: '<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a>',
+      footer: `<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">
+        <img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a>
+        &emsp;Made with ❤️ in China | Powered by <a href="https://theme-hope.vuejs.press/">Theme Hope</a>`,
 
       displayFooter: true,
 
@@ -92,7 +94,9 @@ export default hopeTheme({
       // sidebar
       sidebar: zhSidebar,
 
-      footer: '<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a>',
+      footer: `<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">
+      <img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a>
+      &emsp;由 <a href="https://theme-hope.vuejs.press/">Theme Hope</a> 驱动`,
 
       displayFooter: true,
 
