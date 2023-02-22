@@ -1,5 +1,5 @@
 ---
-icon: edit
+icon: blog
 date: 2023-02-22
 ---
 

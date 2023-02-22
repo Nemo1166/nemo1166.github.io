@@ -12,7 +12,7 @@ export default hopeTheme({
 
   iconAssets: "iconfont",
 
-  logo: "/author.jpg",
+  logo: "/author.png",
 
   // repo: "vuepress-theme-hope/vuepress-theme-hope",
 
@@ -24,20 +24,20 @@ export default hopeTheme({
   blog: {
     medias: {
       // Baidu: "https://example.com",
-      BiliBili: "https://example.com",
+      BiliBili: "https://space.bilibili.com/113267839",
       // Bitbucket: "https://example.com",
       // Dingding: "https://example.com",
       // Discord: "https://example.com",
       // Dribbble: "https://example.com",
       // Email: "https://example.com",
       // Evernote: "https://example.com",
-      Facebook: "https://example.com",
+      // Facebook: "https://example.com",
       // Flipboard: "https://example.com",
       // Gitee: "https://example.com",
-      GitHub: "https://example.com",
+      GitHub: "https://github.com/Nemo1166",
       // Gitlab: "https://example.com",
       // Gmail: "https://example.com",
-      Instagram: "https://example.com",
+      // Instagram: "https://example.com",
       // Lark: "https://example.com",
       // Lines: "https://example.com",
       // Linkedin: "https://example.com",
@@ -118,7 +118,7 @@ export default hopeTheme({
 
   plugins: {
     blog: {
-      excerptLength: false,
+      excerptLength: 0,
     },
 
     // comment: {
@@ -169,6 +169,7 @@ export default hopeTheme({
       vPre: true,
       vuePlayground: true,
     },
+    autoCatalog: true,
 
     // uncomment these if you want a PWA
     // pwa: {

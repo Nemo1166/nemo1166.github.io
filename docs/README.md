@@ -2,7 +2,7 @@
 home: true
 layout: BlogHome
 icon: home
-title: Home
+title: /home/
 heroImage: /logo.svg
 heroText: Nemo
 tagline: Make life get better.
