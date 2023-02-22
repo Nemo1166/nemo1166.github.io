@@ -1,18 +1,5 @@
-_site/*
-_theme_packages/*
-_drafts/*
 
-Thumbs.db
-.DS_Store
-
-!.gitkeep
-
-.rbenv-version
-.rvmrc
-
-*.lock
-
-.vscode/*
-
-Gemfile.lock
-生成本地站点.cmd
+node_modules/
+docs/.vuepress/.cache/
+docs/.vuepress/.temp/
+docs/.vuepress/dist/
