@@ -29,7 +29,7 @@ const props = defineProps({
 
 <template>
     <div class="hint-container info">
-        <p class="hint-container-title">Declarations of works</p>
+        <p class="hint-container-title">Declaration of works</p>
         <ul>
             <li v-if="props.aigc">
                 <p><strong>AIGC</strong></p>

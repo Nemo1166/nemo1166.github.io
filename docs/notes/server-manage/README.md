@@ -5,6 +5,6 @@ article: false
 
 # Personal server management records
 
-之前不管是搞云主机还是树莓派，教程/文档都是看完就关。现在再去找之前有些资料已经消失了，因此在这里记录一下折腾服务器的一些经历，并非教程。
+Previously, whether I was messing with cloud hosting or Raspberry Pi, the tutorials/documentation were all just read and closed. Now go back to the previous some of the information has disappeared, so here are records of some of the experience of tossing the server, not tutorials.
 
 <AutoCatalog base='/notes/server-manage/' />

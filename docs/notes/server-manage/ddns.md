@@ -3,7 +3,7 @@ icon: note
 date: 2023-02-22
 
 tag:
-    - 网络
+    - network
 ---
 
 # Update DNS records dynamically
