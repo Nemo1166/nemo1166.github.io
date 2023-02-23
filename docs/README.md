@@ -5,6 +5,7 @@ icon: home
 title: /home/
 heroImage: /logo.svg
 heroText: Nemo
+bgImage: /assets/bg.jpg
 tagline: Make life get better.
 heroFullScreen: true
 projects:
