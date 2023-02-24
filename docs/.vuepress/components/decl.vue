@@ -1,8 +1,16 @@
 <script setup lang='ts'>
 const props = defineProps({
     aigc: {
-        type: Boolean,
+        type: String,
         default: false
+    },
+    incomp: {
+        type: String,
+        default: null
+    },
+    trans: {
+        type: String,
+        default: null
     },
     reprint: {
         type: Boolean,
@@ -38,6 +46,10 @@ const props = defineProps({
             <li v-if="props.reprint">
                 <p><strong>转载/摘录内容</strong></p>
                 <p>本文部分或全部内容来自 {{ from }}<span v-if="props.license">，以 {{ license }} 协议发表</span>。原文作者为 {{ author }}，内容可能有删减/改动。</p>
+            </li>
+            <li v-if="props.incomp">
+                <p><strong>未完成</strong></p>
+                <p>本页正在施工，<del>请坐和放宽</del>。<span v-if="props.trans">但用另一种语言写的文章已经可用。如果需要，您可以切换语言。</span></p>
             </li>
         </ul>
     </div>

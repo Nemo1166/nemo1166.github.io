@@ -19,6 +19,7 @@ export default hopeTheme({
   docsDir: "docs",
 
   editLink: false,
+  contributors: false,
   copyright: "Copyright © 2023 Nemo Zhang",
 
   blog: {

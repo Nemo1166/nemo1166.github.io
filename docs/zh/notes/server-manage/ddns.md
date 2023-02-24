@@ -8,7 +8,7 @@ tag:
 
 # 动态更新域名解析地址 - 以 Cloudflare 为例
 
-<decl aigc=true />
+<decl aigc=1 incomp=1 trans=1 />
 
 ## 引言
 

@@ -1,12 +1,20 @@
 <script setup lang='ts'>
 const props = defineProps({
     aigc: {
-        type: Boolean,
-        default: false
+        type: String,
+        default: null
+    },
+    incomp: {
+        type: String,
+        default: null
+    },
+    trans: {
+        type: String,
+        default: null
     },
     reprint: {
-        type: Boolean,
-        default: false
+        type: String,
+        default: null
     },
     from: {
         type: String,
@@ -38,6 +46,10 @@ const props = defineProps({
             <li v-if="props.reprint">
                 <p><strong>Reprinted / Excerpted Content</strong></p>
                 <p>Some or all of the content in this article is from {{ from }}<span v-if="props.license">, published under a {{ license }} license</span>. The original article was written by {{ author }} and is subject to deletions/changes.</p>
+            </li>
+            <li v-if="props.incomp">
+                <p><strong>Incomplete works</strong></p>
+                <p>This page is under construction. Please sit and relax. <span v-if="props.trans">However, an article written in another language is already available. You can switch languages if necessary.</span></p>
             </li>
         </ul>
     </div>

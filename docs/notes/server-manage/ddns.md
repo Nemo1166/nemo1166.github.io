@@ -8,7 +8,7 @@ tag:
 
 # Update DNS records dynamically
 
-<decl-en aigc=true />
+<decl-en aigc=1 />
 
 ## Intro
 
