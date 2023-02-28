@@ -3,6 +3,14 @@
   font-weight: bold;
 }
 
+button {
+  font-family: var(--font-family);
+}
+
+code {
+  font-size: 0.9em;
+}
+
 .blogger-avatar {
   animation-duration: 5s;
   animation-name: breath;
