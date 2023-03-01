@@ -1,5 +1,5 @@
 ---
-icon: repo
+icon: network
 article: false
 ---
 

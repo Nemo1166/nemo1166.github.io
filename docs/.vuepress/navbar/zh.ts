@@ -9,7 +9,8 @@ export const zhNavbar = navbar([
     prefix: "/zh/notes/",
     children: [
       "frontend",
-      "server-manage"
+      "server-manage",
+      "python"
     ],
   },
   // {

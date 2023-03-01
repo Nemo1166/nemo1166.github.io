@@ -10,12 +10,19 @@ const daysAgo = (dateString: string) => {
 }
 
 const feTime = daysAgo('2021/11/8')
-const head = `<span style="color: cyan;">root@nemo</span>:<span style="color: #3b78ff;">~</span># cat myself.txt<br />`
+const head = `<span style="color: cyan;">root@nemo</span>:<span style="color: #3b78ff;">~</span># `
+
+const Props = defineProps({
+    content: {
+        type: String,
+        required: true
+    }
+})
 
 onMounted(() => {
     new Typed('#typed', {
         strings: [
-            `${head}练习时长 ${feTime} 天的个人练习生、准开发者、炼丹术士、调包侠。喜欢 python, js/ts 和瞎折腾。`,
+            `${head}${Props.content}`,
         ],
         cursorChar: '_',
         typeSpeed: 40,

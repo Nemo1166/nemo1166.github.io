@@ -1,21 +1,22 @@
 import { defineUserConfig } from "vuepress";
 import theme from "./theme.js";
 import { registerComponentsPlugin } from '@vuepress/plugin-register-components';
-import { path } from '@vuepress/utils';
+import { getDirname,path } from '@vuepress/utils';
+const __dirname = getDirname(import.meta.url)
 
 export default defineUserConfig({
   base: "/",
 
   locales: {
-    "/": {
+    "/en/": {
       lang: "en-US",
       title: "Nemo's Blog",
-      description: "A blog demo for vuepress-theme-hope",
+      description: "Nemo's Blog",
     },
     "/zh/": {
       lang: "zh-CN",
       title: "Nemo's Blog",
-      description: "vuepress-theme-hope 的博客演示",
+      description: "Nemo 的博客",
     },
   },
 
@@ -38,5 +39,5 @@ export default defineUserConfig({
     registerComponentsPlugin({
       componentsDir: path.resolve(__dirname, "./components")
     }),
-  ]
+  ],
 });
