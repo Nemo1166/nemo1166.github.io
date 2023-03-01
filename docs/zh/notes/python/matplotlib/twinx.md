@@ -10,7 +10,11 @@ tag:
 
 # 画双 y 轴图
 
-使用 `plt.subplots()` 和 `twinx()` 实现。高亮行替换为需要的数据系列。
+使用 `plt.subplots()` 和 `twinx()` 实现。
+
+<!-- more -->
+
+高亮行替换为需要的数据系列。
 
 ```python {13-14,24}
 import matplotlib.pyplot as plt
