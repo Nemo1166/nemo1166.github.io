@@ -1,0 +1,1 @@
+import{_ as t,V as a,W as n,Y as e,Z as s}from"./framework-f8b085cf.js";const c={},o=e("h1",{id:"你好-世界",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#你好-世界","aria-hidden":"true"},"#"),s(" 你好，世界")],-1),r=e("p",null,"第一篇文章。",-1),_=[o,r];function i(d,l){return a(),n("div",null,_)}const f=t(c,[["render",i],["__file","init.html.vue"]]);export{f as default};
