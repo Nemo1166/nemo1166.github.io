@@ -4,9 +4,13 @@ specifiers:
   '@vuepress/client': 2.0.0-beta.60
   '@vuepress/plugin-register-components': 2.0.0-beta.60
   '@vuepress/utils': 2.0.0-beta.60
+  typed.js: ^2.0.12
   vue: ^3.2.47
   vuepress: 2.0.0-beta.60
   vuepress-theme-hope: 2.0.0-beta.179
+
+dependencies:
+  typed.js: 2.0.12
 
 devDependencies:
   '@vuepress/client': 2.0.0-beta.60
@@ -4985,6 +4989,10 @@ packages:
       for-each: 0.3.3
       is-typed-array: 1.1.10
     dev: true
+
+  /typed.js/2.0.12:
+    resolution: {integrity: sha512-lyACZh1cu+vpfYY3DG/bvsGLXXbdoDDpWxmqta10IQUdMXisMXOEyl+jos+YT9uBbzK4QaKYBjT3R0kTJO0Slw==}
+    dev: false
 
   /ua-parser-js/1.0.33:
     resolution: {integrity: sha512-RqshF7TPTE0XLYAqmjlu5cLLuGdKrNu9O1KLA/qp39QtbZwuzwv1dT46DZSopoUMsYgXpB3Cv8a03FI8b74oFQ==}
