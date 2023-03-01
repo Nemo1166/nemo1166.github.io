@@ -1,1 +1,0 @@
-import{_ as o,V as a,W as n,Z as r,X as e,Y as c,C as s}from"./framework-8fd515d9.js";const _={},i=e("h1",{id:"自我介绍",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#自我介绍","aria-hidden":"true"},"#"),c(" 自我介绍")],-1);function d(l,m){const t=s("terminalbox");return a(),n("div",null,[i,r(t)])}const f=o(_,[["render",d],["__file","intro.html.vue"]]);export{f as default};
