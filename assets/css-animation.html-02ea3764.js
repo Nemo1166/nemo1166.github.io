@@ -1,0 +1,1 @@
+import{_ as t,V as a,W as n,Y as e,Z as s}from"./framework-87221942.js";const i={},c=e("h1",{id:"animation-with-css",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#animation-with-css","aria-hidden":"true"},"#"),s(" Animation with CSS")],-1),o=[c];function r(_,d){return a(),n("div",null,o)}const m=t(i,[["render",r],["__file","css-animation.html.vue"]]);export{m as default};
