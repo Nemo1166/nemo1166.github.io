@@ -22,7 +22,7 @@ article: false
 - 变分自编码器 (VAE)：kl-f8-anime2-vae.ckpt[^vae]
 - 附加网络 (LoRA / LyCORIS)：elegantHanfuRuqun_v10 (18e059ae584a), GuoFeng3.2_Lora (5d35ac960118)
 - 扩散控制网络 (ControlNet[^cnet])：涂鸦 (scribble)、法线贴图 (normal)、深度图 (depth)
-- 高清修复 (High./res.fix)：R-ESRGAN 4x+ (2.25x)
+- 高清修复 (Highres.fix)：R-ESRGAN 4x+ (2.25x)
 - 后期处理：Adobe Photoshop 2022
 
 [^sd]: <span class="icon iconfont icon-github"></span> [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion)
@@ -36,7 +36,7 @@ article: false
 
 获取原图：[Query for raw images](mailto:zhangguoxi1166@gmail.com)
 
-|直出原图|经过后期处理|
+|直出原图|后期处理|
 |-|-|
 |![](./res/00-r.webp)|![](./res/00-p.webp)|
 |![](./res/01-r.webp)<br>构图参考：明日方舟 主题曲 6-17|![](./res/01-p.webp)|
@@ -44,9 +44,25 @@ article: false
 |![](./res/03-r.webp)|![](./res/03-p.webp)|
 |![](./res/04-r.webp)|![](./res/04-p.webp)|
 |![](./res/05-r.webp)|![](./res/05-p.webp)|
+|![](./res/06-r.webp)|![](./res/06-p.webp)|
 
 ### 表情包贴纸
 
-To be filled.
+|直出原图|后期处理及其变体|||
+|-|-|-|-|
+|![](./res/st-wink-raw.webp)|![](./res/st-wink-1.webp)|||
+|![](./res/st-smile-raw.webp)|![](./res/st-smile-1.webp)|||
+|![](./res/st-angry-raw.webp)|![](./res/st-angry-1.webp)|||
+|![](./res/st-sad-raw.webp)|![](./res/st-sad-1.webp)|![](./res/st-sad-2.webp)|
+|![](./res/st-sigh-raw.webp)|![](./res/st-sigh-1.webp)|![](./res/st-sigh-2.webp)||
+|![](./res/st-sluggish-raw.webp)|![](./res/st-sluggish-1.webp)|![](./res/st-sluggish-2.webp)|![](./res/st-sluggish-3.gif)|
+|![](./res/st-thinking-raw.webp)|![](./res/st-thinking-1.webp)|||
+|![](./res/st-tearing-raw.webp)|![](./res/st-tearing-1.webp)|||
+|![](./res/st-w-raw.webp)|![](./res/st-w-1.webp)|||
+|![](./res/st-expressionless-raw.webp)|![](./res/st-expressionless-1.webp)|![](./res/st-expressionless-2.webp)|![](./res/st-expressionless-3.webp)|
+|![](./res/st-sleeping-raw.webp)|![](./res/st-sleeping-1.webp)|||
+|![](./res/st-sigh-raw.webp)|![](./res/st-sigh-2.webp)|![](./res/st-sigh-1.webp)||
+|![](./res/st-surprised-raw.webp)|![](./res/st-surprised-1.webp)|||
+|![](./res/st-bunny-raw.webp)|![](./res/st-bunny-1.webp)|![](./res/st-bunny-2.webp)||
 
 ### References
