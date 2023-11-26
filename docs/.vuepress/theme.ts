@@ -136,26 +136,23 @@ export default hopeTheme({
     mdEnhance: {
       align: true,
       attrs: true,
-      chart: true,
+      // chart: true,
       codetabs: true,
       container: true,
-      demo: true,
-      echarts: true,
+      // demo: true,
+      // echarts: true,
       figure: true,
-      flowchart: true,
+      // flowchart: true,
       gfm: true,
       imgLazyload: true,
       imgSize: true,
       include: true,
       katex: true,
       mark: true,
-      mermaid: true,
-      playground: {
-        presets: ["ts", "vue"],
-      },
-      presentation: {
-        plugins: ["highlight", "math", "search", "notes", "zoom"],
-      },
+      // mermaid: true,
+      // playground: {
+      //   presets: ["ts", "vue"],
+      // },
       stylize: [
         {
           matcher: "Recommended",
