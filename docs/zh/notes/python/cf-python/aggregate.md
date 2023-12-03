@@ -6,6 +6,7 @@ category:
 tag:
     - python
     - cf-python
+order: 5
 ---
 
 # 聚合 (Aggregate)
