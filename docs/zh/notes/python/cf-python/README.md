@@ -9,15 +9,15 @@ article: false
 
 ## To-do
 
-- [] field
-- [] coord
-- [] collapse
-- [] aggregate
-- [] bound
+- [ ] field
+- [ ] coord
+- [ ] collapse
+- [ ] aggregate
+- [ ] bound
 - plot
-  - [] index
-  - [] line
-  - [] con
-  - [] stripe
+  - [ ] index
+  - [ ] line
+  - [ ] con
+  - [ ] stripe
 
 <AutoCatalog />
