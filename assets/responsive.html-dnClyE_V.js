@@ -1,0 +1,7 @@
+import{_ as s}from"./plugin-vue_export-helper-x3n3nnut.js";import{o as n,c as a,e}from"./app-vzT2jFCP.js";const t={},p=e(`<h1 id="按浏览器宽度应用不同样式" tabindex="-1"><a class="header-anchor" href="#按浏览器宽度应用不同样式" aria-hidden="true">#</a> 按浏览器宽度应用不同样式</h1><p>以下是一个例子。</p><div class="language-css line-numbers-mode" data-ext="css"><pre class="language-css"><code><span class="token atrule"><span class="token rule">@media</span> all <span class="token keyword">and</span> <span class="token punctuation">(</span><span class="token property">max-width</span><span class="token punctuation">:</span> 768px<span class="token punctuation">)</span></span> <span class="token punctuation">{</span>
+    // styles for mobile devices here
+<span class="token punctuation">}</span>
+<span class="token atrule"><span class="token rule">@media</span> all <span class="token keyword">and</span> <span class="token punctuation">(</span><span class="token property">min-width</span><span class="token punctuation">:</span> 769px<span class="token punctuation">)</span></span> <span class="token punctuation">{</span>
+    // styles for desktop devices here
+<span class="token punctuation">}</span>
+</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div>`,3),c=[p];function o(i,l){return n(),a("div",null,c)}const u=s(t,[["render",o],["__file","responsive.html.vue"]]);export{u as default};
