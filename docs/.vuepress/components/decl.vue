@@ -49,7 +49,7 @@ const props = defineProps({
             </li>
             <li v-if="props.incomp">
                 <p><strong>未完成</strong></p>
-                <p>本页正在施工，<del>请坐和放宽</del>。<span v-if="props.trans">但用另一种语言写的文章已经可用。如果需要，您可以切换语言。</span></p>
+                <p>本页正在施工<del>，请坐和放宽</del>。<span v-if="props.trans">但用另一种语言写的文章已经可用。如果需要，您可以切换语言。</span></p>
             </li>
         </ul>
     </div>
