@@ -5,7 +5,7 @@ article: false
 
 # cf-python
 
-方便地处理 nc 数据的工具箱。
+> 符合 CF 标准的地球科学数据分析库。
 
 ## To-do
 
